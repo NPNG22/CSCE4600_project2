@@ -1,4 +1,4 @@
-module github.com/NPNG22/CSCE4600_project1
+module github.com/NPNG22/CSCE4600_project2
 
 go 1.19
 
