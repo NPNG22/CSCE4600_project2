@@ -1,7 +1,7 @@
 # Project 2: Shell Builtins
 
-![Coverage](https://img.shields.io/badge/Coverage-76.7%25-brightgreen)
-[![golangci-lint](https://img.shields.io/github/workflow/status/NPNG22/CSCE4600_project2/GolangCI-Lint?label=linting&style=flat-square)](https://github.com/NPNG22/CSCE4600_project2/actions/workflows/golangci-lint.yml)
+![Coverage](https://img.shields.io/badge/Coverage-37.4%25-yellow)
+![Linting](https://img.shields.io/github/workflow/status/NPNG22/CSCE4600_project2/GolangCI-Lint?label=linting&style=flat-square)
 
 ## Description
 
